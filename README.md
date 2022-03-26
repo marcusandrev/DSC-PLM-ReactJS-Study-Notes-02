@@ -1,3 +1,11 @@
+# DSC PLM ReactJS Study Notes 02
+
+📚 Notion Study notes link: [Notion ReactJS Study Notes 02](https://quiet-report-3e9.notion.site/ReactJS-Study-Notes-02-5d4c91c3135f4bcd8019868a4d968841)
+
+- For the second chapter of our React Study Jam, we’ll be learning about a new package manager called Yarn, some important git commands to know, the all-famous react router, and a one of the most used React CSS Library called Material UI. 
+- Padayon, future web developer 💻! Proud on your first journey!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
